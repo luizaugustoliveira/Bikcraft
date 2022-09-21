@@ -60,3 +60,5 @@ function eventosGaleria(img) {
 }
 
 galeria.forEach(eventosGaleria);
+
+//galeria
